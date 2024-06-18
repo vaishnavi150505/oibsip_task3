@@ -95,3 +95,6 @@ public class ATM {
         } else {
             System.out.println("Insufficient funds.");
         }
+}
+}
+
